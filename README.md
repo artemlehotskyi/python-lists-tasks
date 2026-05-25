@@ -26,5 +26,3 @@ echo "1 2 3 4 5" | python3 task_4_reverse_digits.py
 python3 task_5_all_list_functions.py
 python3 task_6_code_structure.py
 ```
-
-Потрібен Python 3.x. Зовнішніх залежностей немає.
